@@ -27,8 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Social proof section](https://shainadeguzman.github.io/social-proof-section/)
 
 ## My process
 
@@ -45,6 +44,6 @@ While developing this project, i learned more about the 'flex' property in CSS, 
 
 ## Author
 
-- Website - [Shaina De Guzman](deguzman.netlify.app)
+- Website - [Shaina De Guzman](https://deguzman.netlify.app/)
 
 Thanks for checking out this project.
