@@ -44,6 +44,6 @@ While developing this project, i learned more about the 'flex' property in CSS, 
 
 ## Author
 
-- Website - [Shaina De Guzman](https://deguzman.netlify.app/)
+- Website - [Shaina De Guzman](https://shainadeguzman.netlify.app/)
 
 Thanks for checking out this project.
